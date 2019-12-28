@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Alessandro Fiori](mailto://)
+* [Alessandro Fiori](mailto:)
